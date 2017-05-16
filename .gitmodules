@@ -1,0 +1,3 @@
+[submodule "Test02"]
+	path = Test02
+	url = https://github.com/ns-msakamoto/Test02.git
