@@ -2,3 +2,6 @@
 	path = Test02
 	url = https://github.com/ns-msakamoto/Test02.git
 	branch = master
+[submodule "test/tt"]
+	path = test/tt
+	url = https://github.com/ns-msakamoto/Test02.git
